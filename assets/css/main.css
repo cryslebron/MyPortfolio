@@ -2664,7 +2664,7 @@ input, select, textarea {
 		}
 
 		.features article .image {
-			display: inline-block;
+		display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
@@ -2678,7 +2678,7 @@ input, select, textarea {
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 100%;
 		}
 
 			.features article .inner > :last-child {
